@@ -1,0 +1,1 @@
+{"error":"Rate limit exceeded","message":"Rate limit exceeded. Retry after 0.25s. Use secret keys (sk_*) for unlimited requests.","retryAfterSeconds":0.25}
